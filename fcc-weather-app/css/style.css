@@ -1,0 +1,52 @@
+body  {
+
+  background-image: url("http://i68.tinypic.com/106ivf9.jpg");
+  
+}
+#fahr:hover { cursor: pointer; }
+
+
+#weatherapp {
+  background-color: ;
+ // background-image: url("http://i68.tinypic.com/106ivf9.jpg");
+  
+  height: 650px;
+  width: 600px;
+  border: solid black 10px;
+  margin-top: 50px;
+  border-radius: 25px;
+  
+  
+}
+#weather {
+  font-size: 50px;
+   //background-color: silver;
+  border: solid black 10px;
+  border-radius: 25px;
+  height: 100px;
+  width: 500px;
+  margin-left: 27px;
+  margin-top: 30px;
+  
+}
+
+h1  {
+  //background-color: silver;
+  border: solid black 10px;
+  border-radius: 25px;
+  font-size: 50px;
+  height: 100px;
+  width: 500px;
+  margin-left: 27px;
+}
+
+p {
+  //background-color: silver;
+  border: solid black 10px;
+  border-radius: 25px;
+  font-size: 50px;
+  height: 100px;
+  width: 500px;
+  margin-left: 27px;
+  
+}

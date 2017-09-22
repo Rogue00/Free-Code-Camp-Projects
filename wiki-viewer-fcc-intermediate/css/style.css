@@ -1,0 +1,44 @@
+body {
+  background-color: #E5E5E5;
+}
+
+#wikiApp {
+  //background-image: url("http://i64.tinypic.com/1z54u9f.jpg");
+  color: black;
+  text-align: center;
+  background-color: #E5E5E5;
+  //border: groove 3px black;
+}
+img {
+  border: solid black 3px;
+  border-radius: 25px;
+  margin-top: 50px;
+}
+
+.btn {
+  color: black;
+  font-size: 20px;
+  height: 50px;
+  width: 120px;
+  background-color: #E5E5E5;
+  border: solid 3px black;
+  border-radius: 25px;
+}
+
+#searchTerm {
+  //background-color: black;
+  color: black;
+  font-size:20px;
+  height: 50px;
+  width: 450px;
+  border: solid 3px black;
+  border-radius: 25px;
+  //margin-left: 370px;
+  
+}
+
+ul {
+  list-style-type: none;
+  color: black;
+  font-size: 30px;
+}
