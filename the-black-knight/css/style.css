@@ -1,0 +1,43 @@
+body {
+  font-family: 'IM Fell English', serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3,
+h4,
+h5 {
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
+ul {
+  font-size: 20px;
+}
+
+ text {
+  color: black;
+}
+
+body {
+  background-color: #d3d3d3; text-align: center
+}
+
+
+
+.larger-image {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
